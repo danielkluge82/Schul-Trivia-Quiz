@@ -1,0 +1,6 @@
+{
+  "name": "Schul-Trivial Pursuit: Sachsen-Edition",
+  "description": "Ein Trivial Pursuit-ähnliches Lernspiel, das auf dem sächsischen Lehrplan ab der 2. Klasse basiert. Spieler können ihre Klassenstufe wählen und treten in verschiedenen Schulfächern gegeneinander an.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
