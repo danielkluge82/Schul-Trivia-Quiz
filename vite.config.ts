@@ -4,6 +4,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig(() => {
     return {
+      base: '/Schul-Trivia-Quiz/',
       server: {
         port: 3000,
         host: '0.0.0.0',
@@ -16,3 +17,4 @@ export default defineConfig(() => {
       }
     };
 });
+
